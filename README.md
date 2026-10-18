@@ -14,6 +14,10 @@ Developed as part of an academic project, this dashboard provides insights into 
 - Examine customer review patterns.
 - Present insights through interactive Tableau visualizations.
 
+  ## Dashboard Preview
+
+![NYC Airbnb 2019 Tableau Dashboard](airbnb-dashboard-preview.png)
+
 ## Dashboard Features
 
 **Listing & Pricing Analysis**
